@@ -1,0 +1,1 @@
+Vue.component('matrix-app',require('./Pages/MatrixApp.vue').default);
