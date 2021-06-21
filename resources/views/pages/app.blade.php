@@ -36,7 +36,7 @@
  @section('scripts')
 
 <!-- The main compiled script for this page  -->
- <script src="{{ asset('js/app.js?v=0.06') }}"></script>
+ <script src="{{ asset('js/app.js?v=0.07') }}"></script>
  <!-- ends -->
 
      

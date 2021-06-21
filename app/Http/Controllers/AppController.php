@@ -193,8 +193,6 @@ class AppController extends Controller
           "number"=> $result["num_result"]
         ];
 
-        
-
         return $response;
 
     }

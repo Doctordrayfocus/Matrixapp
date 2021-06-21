@@ -143,6 +143,7 @@
          this.$root.routeIsLoading = true;
          
           this.errorInfo = ''
+          this.result = [];
 
          axios.post('/multiply_matrices',{
            first_matrix: this.$root.firstMatrix,
